@@ -1,6 +1,6 @@
 # Lost: Der Schatten der Vergangenheit
 
-**Storyline:**
+**Informationen:**
 "Lost: Der Schatten der Vergangenheit" ist ein von mir allein entwickeltes Horror-Spiel, das die Spieler in eine düstere und beängstigende Welt entführt. Die Geschichte erzählt von einem jungen Mann, der von einer einst geliebten Frau betrogen, gemobbt und gedemütigt wurde. Seine Obsession und sein Schmerz haben ihn an den Rand des Wahnsinns getrieben. Als er herausfindet, wo sie lebt, verschleppt er sie in ein verlassenes Haus und sperrt sie in einem schrecklichen Raum ein. Die Frau muss einen Ausweg finden, indem sie Rätsel löst und Hinweisen folgt, während sie sich den Geistern der Vergangenheit und der dunklen Obsession ihres Peinigers stellt.
 
 **Technologie:**
