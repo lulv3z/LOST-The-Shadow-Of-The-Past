@@ -13,7 +13,7 @@
 - **Verstörende Grafik:** Nutze meine alleinige Entwicklungsarbeit mit der Unreal Engine 5.3, um eine visuell beeindruckende und unheimliche Umgebung zu erkunden.
 - **Spielerische Freiheit:** Entscheide selbst, wie du mit den dunklen Geheimnissen und der Bedrohung umgehst.
 
-**Erfahrenes Entwicklerteam:**
+**Entwicklerteam:**
 Ich bin ein leidenschaftlicher Spieleentwickler und habe mein Herzblut in "Lost: Der Schatten der Vergangenheit" gesteckt. Ich habe mich zum Ziel gesetzt, ein einzigartiges und unvergessliches Spielerlebnis zu schaffen.
 
 **Veröffentlichung und Verfügbarkeit:**
