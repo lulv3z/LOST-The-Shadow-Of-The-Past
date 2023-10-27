@@ -1,7 +1,7 @@
 # Lost: Der Schatten der Vergangenheit
 
 **Informationen:**
-"Lost: Der Schatten der Vergangenheit" ist ein von mir allein entwickeltes Horror-Spiel, das die Spieler in eine düstere und beängstigende Welt entführt. Die Geschichte erzählt von einem jungen Mann, der von einer einst geliebten Frau betrogen, gemobbt und gedemütigt wurde. Seine Obsession und sein Schmerz haben ihn an den Rand des Wahnsinns getrieben. Als er herausfindet, wo sie lebt, verschleppt er sie in ein verlassenes Haus und sperrt sie in einem schrecklichen Raum ein. Die Frau muss einen Ausweg finden, indem sie Rätsel löst und Hinweisen folgt, während sie sich den Geistern der Vergangenheit und der dunklen Obsession ihres Peinigers stellt.
+LOST: The Shadow Of The Past erzählt die gruselige Geschichte eines jungen Mannes, der von einem Mädchen betrogen, gemobbt und verspottet wurde. Getrieben von seinen eigenen düsteren Gedanken hat er herausgefunden, wo sie lebt und sie in ein verlassenes Haus verschleppt, wo er sie in einem kaputten Zimmer gefangen hält. Der junge Mann ist durch die psychische Folter, der er ausgesetzt war, zutiefst verstört und sinnt auf grausame Rache. Das Ziel des Spiels ist es, aus diesem verlassenen Haus zu entkommen und den Schatten der Vergangenheit zu überwinden. 
 
 **Technologie:**
 "Lost: Der Schatten der Vergangenheit" basiert auf meiner alleinigen Entwicklung und Nutzung der leistungsstarken Unreal Engine 5.3. Die Engine ermöglicht atemberaubende Grafik, realistische Physik und beeindruckende Beleuchtungseffekte, die ein immersives und visuell beeindruckendes Spielerlebnis bieten.
