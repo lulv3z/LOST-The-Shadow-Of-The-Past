@@ -20,6 +20,9 @@ Ich bin ein leidenschaftlicher Spieleentwickler und habe mein Herzblut in "Lost:
 Das Spiel "Lost: Der Schatten der Vergangenheit" wird voraussichtlich für Plattformen wie PC, Xbox und PlayStation verfügbar sein. Halte dich auf dem Laufenden, um über den genauen Veröffentlichungstermin informiert zu werden.
 
 **Devlogs und Öffentliche Testversionen:**
+
+- [0.0.4](https://github.com/lulv3z/LOST-The-Shadow-Of-The-Past/blob/main/Version/0.0.4/devlog.md)
+
 - [Besuche unseren Devlog](https://lulv3z.itch.io/lost-theshadowofthepast/devlog), um mehr über die Entwicklung und Fortschritte von "Lost: Der Schatten der Vergangenheit" zu erfahren.
 - [Lade die öffentlichen Testversionen herunter](https://lulv3z.itch.io/lost-theshadowofthepast), um einen ersten Einblick in das Spiel zu erhalten und uns wertvolles Feedback zu geben.
 
